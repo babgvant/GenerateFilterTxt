@@ -49,3 +49,6 @@ Temporary Items
 *.exe
 *.suo
 *.user
+.vs/
+bin/
+obj/
